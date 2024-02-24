@@ -41,6 +41,10 @@ void main(){
     // Set - Contain Unique Value
     Set<int> ratings = {1, 2, 3};
     print(ratings);
+
+    // runtimeType - used to check the type of the element in run time
+    print(ratings.runtimeType);
+
 }
 
 // Note 
