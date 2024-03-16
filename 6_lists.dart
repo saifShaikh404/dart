@@ -17,7 +17,7 @@ void main(){
     print(name5);
 
     // List Constructor
-    var numbers = List.filled(5, 0, growable: true); // create list lenght of 5 and value of 0 in each index, growable means list can extend over 5 length if we remove growable we cant be able to add pr remove list item, we can edit tho
+    var numbers = List.filled(5, 0, growable: true); // create list lenght of 5 and value of 0 in each index, growable means list can extend over 5 length if we remove growable we cant be able to add or remove list item, we can edit tho
     print(numbers);
 
     // updating
